@@ -68,5 +68,6 @@ export interface Result {
   id?: number | string
   server?: string | number
   name?: string
+  country?: string
   message?: string
 }
